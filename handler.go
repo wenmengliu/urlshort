@@ -3,7 +3,6 @@ package urlshort
 import (
 	"net/http"
 
-	"gopkg.in/yaml.v2"
 	yaml "gopkg.in/yaml.v2"
 )
 
